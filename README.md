@@ -1,6 +1,6 @@
 # Big-O Primer Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T0rQRuh2lXmipCii1CFe51Ogwruyisy5]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T0rQRuh2lXmipCii1CFe51Ogwruyisy5)]
 
 This is a notebook that introduces common big-O time complexities with code examples and a minimum of math.
 
