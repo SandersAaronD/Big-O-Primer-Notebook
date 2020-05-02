@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyter
+  - ipython
+  - python
+  - numpy
+  - pip
+  - future
+  - pandas
+  - ipywidgets
+  - seaborn
+  - voila
