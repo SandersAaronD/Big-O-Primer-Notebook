@@ -1,3 +1,4 @@
+name: big-o-primer-notebook
 channels:
   - conda-forge
   - default
